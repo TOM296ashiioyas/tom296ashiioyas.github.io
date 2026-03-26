@@ -27,6 +27,16 @@ ul {
     padding-left: 20px;
 }
 
+a {
+    color: #2d89ef;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     padding: 10px;
